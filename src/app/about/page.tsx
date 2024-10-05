@@ -43,16 +43,16 @@ export default function Home() {
                 <div className="space-y-8">
                     <section className="bg-teal-600 py-8">
                         <div className="container mx-auto px-4 flex justify-between items-center gap-12">
-                            <h2 className="text-3xl font-bold text-white w-1/2">We're part of the University of Victoria Students' Society</h2>
+                            <h2 className="text-3xl font-bold text-white w-1/2">We&apos;re part of the University of Victoria Students&apos; Society</h2>
                             <p className="text-white text-sm w-1/2">
-                                We get funding from the UVSS to run our events and workshop each semester. We also get access to the UVSS's resources like rooms and equipment. Special project grants are also available to through the UVSS.
+                                We get funding from the UVSS to run our events and workshop each semester. We also get access to the UVSS&apos;s resources like rooms and equipment. Special project grants are also available to through the UVSS.
                             </p>
                         </div>
                     </section>
 
                     <section className="bg-orange-500 py-8">
                         <div className="container mx-auto px-4 flex justify-between items-center gap-12">
-                            <h2 className="text-3xl font-bold text-white w-1/2">We're part of the UVic Engineering Student Society</h2>
+                            <h2 className="text-3xl font-bold text-white w-1/2">We&apos;re part of the UVic Engineering Student Society</h2>
                             <p className="text-white text-sm w-1/2">
                                 We get funding from the UVic Engineering Student Society to support our projects and events. Each year, we also get access to the Cinkant grant, which is a grant for special projects.
                             </p>
