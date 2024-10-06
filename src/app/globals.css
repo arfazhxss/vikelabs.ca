@@ -76,3 +76,9 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.scale-75 {
+  transform: scale(0.85);
+  transform-origin: top left; /* Optional: Adjust the origin of the scaling */
+}
+
